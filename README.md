@@ -1,18 +1,11 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio para aprimoramento!
+#### Repositório criado para acompanhamento de evolução.
 
-## Links úteis
-[Sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
+### Uma introdução básica sobre programação
+#####  Com seu corpo de texto baseado em links.
 
-Repositório criado para acompanhamento de evolução.
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-<meta
-<body> {
-<style> {
- font: arial
-}
-</style>
-}
-</body>
+### Links:
+#### [Guia de introdução de programação](https://www.treinaweb.com.br/blog/guia-de-introducao-a-programacao)
+#### [O que é HTML?](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos)
+#### [O que é CSS?](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
+#### [As 7 linguagens de programação mais usadas.](https://www.hashtagtreinamentos.com/linguagens-de-programacao?gclid=CjwKCAjwquWVBhBrEiwAt1KmwmwdIhaKKn62UNniu_INJa2ZhGtuoTtn-csmsCF8Wx_7ziOBM5kr9RoCjGgQAvD_BwE)
