@@ -16,4 +16,6 @@
 
 #### [As 7 linguagens de programação mais usadas.](https://www.hashtagtreinamentos.com/linguagens-de-programacao?gclid=CjwKCAjwquWVBhBrEiwAt1KmwmwdIhaKKn62UNniu_INJa2ZhGtuoTtn-csmsCF8Wx_7ziOBM5kr9RoCjGgQAvD_BwE)
 
-<img title="null" src="file:///C:/Users/danie/Downloads/1650422975684.jpg" alt="null">
+
+
+<img src= "https://www.asuris.com.br/upload/blog/QhEb6JuOjOogFNZSINwpOaKn9bEJbEVq3Y0iCGu1.jpg"/>
